@@ -7,6 +7,8 @@ When I can I will add more.
 
 If anyone wishes to contribute with new code or corrections/suggestions, feel free.
 
+**Install**
+`pip install --upgrade git+https://github.com/riccamastellone/technical_indicators.git`
 
 **Features:**
 
